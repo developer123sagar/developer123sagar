@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 👨‍💻 I’m a Frontend Developer (Mid Level) at Naxa Pvt. Ltd.<br> I’m currently working on Saas-Application--Nextjs<br>💼 My portfolio link : https://sagar-portfolio-five.vercel.app/<br>🌱 I’m currently learning Backend
+👨‍💻 I’m a Frontend Developer (Mid Level) at Naxa Pvt. Ltd.<br> 🔭 I’m currently working on Saas-Application--Nextjs<br>💼 My portfolio link : https://sagar-portfolio-five.vercel.app/<br>🌱 I’m currently learning Backend
 
 [![](https://visitcount.itsvg.in/api?id=developer123sagar&icon=7&color=1)](https://visitcount.itsvg.in)
 
