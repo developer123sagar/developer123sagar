@@ -11,5 +11,4 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=developer123sagar&theme=blue-green&hide_border=false)<br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=developer123sagar&theme=shadow-purple)](https://git.io/streak-stats)
 ---
