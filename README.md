@@ -22,6 +22,4 @@
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=developer123sagar&theme=shadow-purple&hide_border=false)<br/>
-
----
+![](https://github-readme-streak-stats.herokuapp.com/?user=developer123sagar&theme=shadow-purple&hide_border=false)
