@@ -3,7 +3,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=developer123sagar&icon=7&color=1)](https://visitcount.itsvg.in)
 
-## 🌐 Socials:
+## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/saggu.thakuri/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-chand/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sagarch26110006) 
 
 <h2>🚀 Languages and Tools I Use</h2>
@@ -21,5 +21,5 @@
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="42" height="42" /></a>
 </p>
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=developer123sagar&theme=shadow-purple&hide_border=false)
