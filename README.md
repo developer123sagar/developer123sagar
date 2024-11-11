@@ -22,6 +22,7 @@
 <a target="_blank" href="https://openlayers.org/theme/img/logo-dark.svg" style="display: inline-block;"><img src="https://openlayers.org/theme/img/logo-dark.svg" alt="OpenLayers" width="42" height="42" /></a>
 <a target="_blank" href="https://maplibre.org/maplibre-gl-js/docs/assets/logo.svg" style="display: inline-block;"><img src="https://maplibre.org/maplibre-gl-js/docs/assets/logo.svg" alt="Maplibre" width="42" height="42" /></a>
 <a target="_blank" href="https://tanstack.com/_build/assets/logo-color-100w-lPbOTx1K.png" style="display: inline-block;"><img src="https://tanstack.com/_build/assets/logo-color-100w-lPbOTx1K.png" alt="tanstack" width="42" height="42" /></a>
+<a target="_blank" href="https://cdn.iconscout.com/icon/free/png-512/free-framer-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-3-pack-logos-icons-2944880.png?f=webp&w=512" style="display: inline-block;"><img src="https://cdn.iconscout.com/icon/free/png-512/free-framer-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-3-pack-logos-icons-2944880.png?f=webp&w=512" alt="framer motion" width="42" height="42" /></a>
 </p>
 
 # 📊 GitHub Stats
