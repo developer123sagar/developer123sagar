@@ -22,6 +22,7 @@
 <a target="_blank" href="https://maplibre.org/maplibre-gl-js/docs/assets/logo.svg" style="display: inline-block;"><img src="https://maplibre.org/maplibre-gl-js/docs/assets/logo.svg" alt="Maplibre" width="42" height="42" /></a>
 <a target="_blank" href="https://tanstack.com/_build/assets/logo-color-100w-lPbOTx1K.png" style="display: inline-block;"><img src="https://tanstack.com/_build/assets/logo-color-100w-lPbOTx1K.png" alt="tanstack" width="42" height="42" /></a>
 <a target="_blank" href="https://ia803201.us.archive.org/30/items/github.com-react-hook-form-react-hook-form_-_2020-09-16_11-14-19/cover.jpg" style="display: inline-block;"><img src="https://ia803201.us.archive.org/30/items/github.com-react-hook-form-react-hook-form_-_2020-09-16_11-14-19/cover.jpg" alt="react hook form" width="42" height="42" /></a>
+<a target="_blank" href="https://webpack.js.org/site-logo.c0e60df418e04f58.svg" style="display: inline-block;"><img src="https://webpack.js.org/site-logo.c0e60df418e04f58.svg" alt="web pack" width="100" height="42" /></a>
 </p>
 
 # 📊 GitHub Stats
