@@ -1,6 +1,6 @@
-# Hello World!, I'm Sagar, a Mid-Level Frontend Developer at Naxa Pvt. Ltd. 👋🏼:
+## Hello World!, I'm Sagar, a Mid-Level Frontend Developer at Naxa Pvt. Ltd. 👋🏼:
 
-🛜 currently working on Digital Metric Addressing System (DMAPS) Project<br>👨🏼‍🎓 Completed bachelor's degree in BSc.Csit<br>👨🏼‍💻 working as a web developer since 2022 <br> 💬 Ask me about anything, I'm happy to help!
+🛜 currently working on Digital Metric Addressing System (DMAPS) Project<br>👨🏼‍🎓 Completed bachelor's degree in BSc.Csit<br>👨🏼‍💻 working as a web developer since 2022 <br> 💬 Ask me about <strong>React/Next.js</strong>, I'm happy to help!
 
 # 🌐 Where to Find Me
 
