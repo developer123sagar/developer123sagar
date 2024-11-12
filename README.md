@@ -1,12 +1,15 @@
 # 💫 About Me
+
 👨‍💻 I’m a Frontend Developer (Mid Level) at Naxa Pvt. Ltd.<br> 🔭 I’m currently working on Digital Metric Addressing Project.<br>💼 My portfolio link : https://sagar-portfolio-five.vercel.app/<br>🌱 I’m currently learning Backend and GIS.
 
 [![](https://visitcount.itsvg.in/api?id=developer123sagar&icon=7&color=1)](https://visitcount.itsvg.in)
 
 # 🌐 Socials
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-chand/)
 
 # 🚀 Languages and Tools I Use
+
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
@@ -27,4 +30,11 @@
 </p>
 
 # 📊 GitHub Stats
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=developer123sagar&theme=shadow-purple&hide_border=false)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/developer123sagar/developer123sagar/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/developer123sagar/developer123sagar/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/developer123sagar/developer123sagar/output/github-snake.svg" />
+</picture>
