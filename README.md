@@ -1,12 +1,12 @@
 ## Hello World!, I'm Sagar, a Mid-Level Frontend Developer at Naxa Pvt. Ltd. 👋🏼:
 
-🛜 currently working on Digital Metric Addressing System (DMAPS) Project<br>👨🏼‍🎓 Completed bachelor's degree in BSc.Csit<br>👨🏼‍💻 working as a web developer since 2022 <br> 💬 Ask me about <strong>React/Next.js</strong>, I'm happy to help!
+🛜 currently working on Digital Metric Addressing System (DMAPS) Project<br>👨🏼‍🎓 Completed bachelor's degree in BSc.Csit<br>👨🏼‍💻 working as a web developer since 2022 <br> 📫 How to reach me **chandsagar314@gmail.com** <br> 💬 Ask me about <strong>React/Next.js</strong>, I'm happy to help!
 
-# 🌐 Where to Find Me
+## 🌐 Where to Find Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-chand/)
 
-# 🚀 Languages and tools i use
+## 🚀 Languages and Tools I Use
 
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
@@ -27,7 +27,7 @@
 <a target="_blank" href="https://cdn.iconscout.com/icon/free/png-512/free-framer-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-3-pack-logos-icons-2944880.png?f=webp&w=512" style="display: inline-block;"><img src="https://cdn.iconscout.com/icon/free/png-512/free-framer-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-3-pack-logos-icons-2944880.png?f=webp&w=512" alt="framer motion" width="42" height="42" /></a>
 </p>
 
-# 📊 GitHub Stats
+#$ 📊 My Stats
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=developer123sagar&theme=shadow-purple&hide_border=false)
 
