@@ -1,14 +1,12 @@
-# 💫 About Me
+# Hello World!, I'm Sagar, a Mid-Level Frontend Developer at Naxa Pvt. Ltd. 👋🏼:
 
-👨‍💻 I’m a Frontend Developer (Mid Level) at Naxa Pvt. Ltd.<br> 🔭 I’m currently working on Digital Metric Addressing Project.<br>💼 My portfolio link : https://sagar-portfolio-five.vercel.app/<br>🌱 I’m currently learning Backend and GIS.
+🛜 currently working on Digital Metric Addressing System (DMAPS) Project<br>👨🏼‍🎓 Completed bachelor's degree in BSc.Csit<br>👨🏼‍💻 working as a web developer since 2022 <br> 💬 Ask me about anything, I'm happy to help!
 
-[![](https://visitcount.itsvg.in/api?id=developer123sagar&icon=7&color=1)](https://visitcount.itsvg.in)
-
-# 🌐 Socials
+# 🌐 Where to Find Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-chand/)
 
-# 🚀 Languages and Tools I Use
+# 🚀 Languages and tools i use
 
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
