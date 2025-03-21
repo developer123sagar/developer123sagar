@@ -4,6 +4,7 @@
 
 🛜 currently working on Digital Metric Addressing System <a target="_blank" href="https://dmaps.org/" style="display: inline-block;">(DMAPS)</a> Project. <br>👨🏼‍🎓 Completed bachelor's degree in BSc.Csit.<br>👨🏼‍💻 working as a web developer since 2022. <br> 📫 How to reach me **chandsagar314@gmail.com** <br> 💬 Ask me about <strong>React/Next.js</strong>, I'm happy to help!
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=developer123sagar)
 [![](https://visitcount.itsvg.in/api?id=developer123sagar&icon=0&color=0)](https://visitcount.itsvg.in)
 ## 🌐 Where to Find Me
 
