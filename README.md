@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://anilrajrimal.com.np)
 
-## Hello World 👋🏼, I'm Sagar, a Mid-Level Frontend Developer at Naxa Pvt. Ltd.
+## Hello World 👋🏼, I'm Sagar, a Frontend Developer at Naxa Pvt. Ltd.
 
 🛜 currently working on Digital Metric Addressing System <a target="_blank" href="https://dma-dev.naxa.com.np/" style="display: inline-block;">(DMAPS)</a> Project. <br>👨🏼‍🎓 Completed bachelor's degree in BSc.Csit.<br>👨🏼‍💻 working as a web developer since 2022. <br> 📫 How to reach me **chandsagar314@gmail.com** <br> 💬 Ask me about <strong>React/Next.js</strong>, I'm happy to help!
 
