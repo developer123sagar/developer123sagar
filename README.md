@@ -2,7 +2,7 @@
 
 ## Hello World 👋🏼, I'm Sagar, a Frontend Developer at Naxa Pvt. Ltd.
 
-🛜 currently working on Fishtechy web app <a target="_blank" href="https://homepage.flytechy.site/" style="display: inline-block;">(Fishtechy)</a> Project. <br>👨🏼‍🎓 Completed bachelor's degree in BSc.Csit.<br>👨🏼‍💻 working as a web developer since 2022. <br> 📫 How to reach me **chandsagar314@gmail.com** <br> 💬 Ask me about <strong>React/Next.js</strong>, I'm happy to help!
+🛜 currently working on Fishtechy web app <a target="_blank" href="https://fishtechy.com/" style="display: inline-block;">(Fishtechy)</a> Project. <br>👨🏼‍🎓 Completed bachelor's degree in BSc.Csit.<br>👨🏼‍💻 working as a web developer since 2022. <br> 📫 How to reach me **chandsagar314@gmail.com** <br> 💬 Ask me about <strong>React/Next.js</strong>, I'm happy to help!
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=developer123sagar)
 [![](https://visitcount.itsvg.in/api?id=developer123sagar&icon=0&color=0)](https://visitcount.itsvg.in)
